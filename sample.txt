@@ -1,4 +1,6 @@
 lsblk 
 ls
 pwd
+cd ~
+ls -la
 
